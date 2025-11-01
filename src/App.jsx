@@ -1,5 +1,5 @@
 import React from 'react'
-import Card from './Components/Card'
+import Card from './Components/Card/Card.jsx'
 
 const App = () => {
  var arr=[{name:'Ahmer',age:21,img:'https://images.unsplash.com/photo-1668293750324-bd77c1f08ca9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFuaW1lfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600'},
